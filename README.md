@@ -1,7 +1,7 @@
 
 ---
 
-📚 **Hashnode Article Backup**
+📚 **Article Backup**
 
 This repository serves as a backup for my articles published on Hashnode, a platform where I share insights and experiences related to technology, development, and more. Each article is a journey through concepts, challenges, and solutions in the ever-evolving landscape of software engineering.
 
