@@ -12,7 +12,7 @@ HTML (Hypertext Markup Language) is the backbone of the modern web, providing th
 
 In this article, we will provide a comprehensive guide on how to get started with HTML, from the basics of the language to advanced techniques for creating dynamic and interactive web pages.
 
-Getting Started with HTML
+## Getting Started with HTML
 
 HTML is a markup language, which means it uses tags and attributes to define the structure and content of web pages. A basic HTML document consists of a head and a body, where the head contains information about the page (such as the title and meta tags), and the body contains the content that will be displayed in the web browser.
 
@@ -35,7 +35,7 @@ In this example, the `<!DOCTYPE html>` declaration specifies that this is an HTM
 
 The `<h1>` and `<p>` tags define header and paragraph elements, respectively, and the text within these tags is the content that will be displayed in the web browser.
 
-HTML Elements and Attributes
+## HTML Elements and Attributes
 
 HTML elements are used to define the structure and content of web pages. Each element is defined by a pair of opening and closing tags, and the content of the element is placed between these tags.
 
@@ -53,7 +53,7 @@ For example, the following code defines an image element with the `src` attribut
 <img src="https://www.example.com/image.jpg" alt="An example image">
 ```
 
-HTML Headings
+### HTML Headings
 
 HTML headings are used to define headings and subheadings within web pages. There are six levels of headings, from `<h1>` to `<h6>`, with `<h1>` being the most important and `<h6>` being the least important.
 
@@ -63,7 +63,7 @@ For example, the following code defines an `<h1>` heading:
 <h1>This is a Heading</h1>
 ```
 
-HTML Links
+### HTML Links
 
 HTML links are used to create hyperlinks between web pages. The `<a>` tag is used to define a link, with the `href` attribute specifying the target of the link.
 
@@ -73,7 +73,7 @@ For example, the following code defines a link to the Google homepage:
 <a href="https://www.google.com">Visit Google</a>
 ```
 
-HTML Images
+### HTML Images
 
 HTML images are used to display pictures and graphics on web pages. The `<img>` tag is used to define an image, with the `src` attribute specifying the source of the image and the `alt` attribute providing a description of the image for accessibility purposes.
 
@@ -83,7 +83,7 @@ For example, the following code defines an image element:
 <img src="https://www.example.com/image.jpg" alt="An example image">
 ```
 
-HTML Lists
+### HTML Lists
 
 HTML lists are used to organize content into lists, such as bulleted or numbered lists. There are two types of lists in HTML: unordered lists (created using the `<ul>` tag) and ordered lists (created using the `<ol>` tag).
 
@@ -97,7 +97,7 @@ For example, the following code defines an unordered list:
 </ul>
 ```
 
-HTML Forms
+### HTML Forms
 
 HTML forms are used to collect user input, such as filling out a contact form or placing an order. The `<form>` tag is used to define a form, and various form elements, such as text inputs, checkboxes, and submit buttons, are used to collect and submit user input.
 
@@ -115,7 +115,7 @@ For example, the following code defines a simple contact form:
 </form>
 ```
 
-HTML Tables
+### HTML Tables
 
 HTML tables are used to display data in a tabular format, such as a product catalog or financial report. The `<table>` tag is used to define a table, with various elements, such as `<tr>` (table row), `<th>` (table header), and `<td>` (table cell), used to define the structure of the table.
 
@@ -138,7 +138,7 @@ For example, the following code defines a simple table:
 </table>
 ```
 
-HTML Semantic Elements
+### HTML Semantic Elements
 
 HTML semantic elements are used to provide additional meaning to web pages, such as defining headings, paragraphs, and navigation menus. Some common semantic elements include `<header>`, `<nav>`, `<main>`, `<article>`, and `<footer>`.
 
