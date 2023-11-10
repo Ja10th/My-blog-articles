@@ -4,7 +4,7 @@ datePublished: Mon Sep 18 2023 12:39:18 GMT+0000 (Coordinated Universal Time)
 cuid: clmovi43400080akz7ddgdh1m
 slug: evaluating-explainable-ai-xai-methods
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZPOoDQc8yMw/upload/3021873062ed0c640887a934a8834980.jpeg
-tags: ai, artificial-intelligence, machine-learning, xai, ai-tools
+tags: ai, artificial-intelligence, programming-blogs, machine-learning, xai
 
 ---
 
