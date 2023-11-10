@@ -14,7 +14,7 @@ Particularly in fields where judgments have an impact on specific people or soci
 
 We can better understand how explainability is measured and how it contributes to the development of open and responsible AI systems by analyzing various evaluation approaches. Now let's explore the various strategies for assessing explainable AI techniques.
 
-**Quantitative Metrics for Evaluation**
+### **Quantitative Metrics for Evaluation**
 
 A variety of quantitative indicators can be used to evaluate the effectiveness and quality of explainability strategies. These metrics offer unbiased ways to assess the accuracy, stability, and complexity of the justifications produced by AI models.
 
@@ -27,7 +27,7 @@ A variety of quantitative indicators can be used to evaluate the effectiveness a
 
 The fact that these quantitative criteria offer a consistent framework for assessing explainability strategies is significant. To get a complete picture of the methodologies' strengths and weaknesses, they must be utilized with qualitative evaluations and domain-specific factors.
 
-**User Studies and Human Evaluation**
+### **User Studies and Human Evaluation**
 
 To assess the usability and efficacy of explainability methodologies, user feedback must be gathered. To understand user preferences, perceptions, and comprehension of the supplied explanations, user studies use surveys, questionnaires, interviews, and other interactive approaches. Researchers can learn more about how well the explanations match users' expectations and cognitive capacities by incorporating users directly.
 
@@ -42,7 +42,7 @@ To assess the usability and efficacy of explainability methodologies, user feedb
 
 User studies and human evaluation provide rich qualitative data that complements the quantitative metrics. They offer insights into users' perceptions, preferences, and challenges, allowing for iterative improvements in the design and presentation of explanations.
 
-**Real-World Impact Assessments**
+### **Real-World Impact Assessments**
 
 It is essential to analyze explainability approaches' effects on decision-making and task performance in real-world circumstances. It entails examining how various aspects of system performance and user interactions are impacted by the existence of explanations. Real-world impact analyses shed light on the usefulness of explainability strategies and assist in assessing how well they work to accomplish their stated objectives.
 
@@ -55,7 +55,7 @@ It is essential to analyze explainability approaches' effects on decision-making
 
 Real-world impact evaluations offer insightful information on the efficacy and usefulness of explainability strategies. Researchers may pinpoint areas for development, hone the methodologies, and create more dependable and accountable AI systems by looking at how they affect task performance, decision-making, and fairness.
 
-**Challenges and Considerations in Evaluation**
+### **Challenges and Considerations in Evaluation**
 
 To ensure the validity and reliability of the evaluation, researchers and practitioners must navigate a number of difficulties and issues while evaluating explainability methodologies. For the explainability approaches to be evaluated accurately and meaningfully, these issues must be understood and resolved.
 
@@ -68,7 +68,7 @@ To ensure the validity and reliability of the evaluation, researchers and practi
 
 A thorough and careful evaluation strategy that includes quantitative measures, user research, and actual impact assessments is needed to address these problems. Researchers can strengthen the rigor and validity of their assessments and make significant strides in the field of explainable AI by carefully analyzing these difficulties.
 
-**Conclusion**
+### **Conclusion**
 
 In this article, we have looked at numerous evaluation techniques for explainable AI (XAI) techniques. To verify the dependability, applicability, and ethical considerations of explainability methodologies, it is essential to assess their performance. Researchers and practitioners can learn a great deal about the effectiveness, usability, and constraints of explainable AI systems by using quantitative measurements, user studies, and impact assessments in the real world.
 
