@@ -117,7 +117,7 @@ if __name__ == '__main__':
 
 In this example:
 
-* **@app.route('/'):** Defines a route for the home page.
+* **@ app.route('/'):** Defines a route for the home page.
     
 * **def home():** Implements a basic response for the home route.
     
