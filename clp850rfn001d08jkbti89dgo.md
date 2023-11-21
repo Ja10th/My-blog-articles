@@ -1,10 +1,10 @@
 ---
-title: "React for Beginner"
+title: "React for Beginners"
 seoTitle: "Learn React from Scratch"
 seoDescription: "Dive into the world of React with our comprehensive beginner’s guide. Learn the fundamentals, master JSX, and explore hands-on examples. Start your journey"
 datePublished: Tue Nov 21 2023 09:32:47 GMT+0000 (Coordinated Universal Time)
 cuid: clp850rfn001d08jkbti89dgo
-slug: react-for-beginner
+slug: react-for-beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700558339843/71ee6d5d-9342-4a5a-aab5-448f97400673.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700558952947/01628733-689c-4399-ba38-a60a31628585.png
 tags: programming-blogs, css, javascript, reactjs, html5
