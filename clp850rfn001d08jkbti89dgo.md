@@ -7,7 +7,7 @@ cuid: clp850rfn001d08jkbti89dgo
 slug: react-for-beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700558339843/71ee6d5d-9342-4a5a-aab5-448f97400673.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700558952947/01628733-689c-4399-ba38-a60a31628585.png
-tags: programming-blogs, css, javascript, reactjs, html5
+tags: productivity, programming-blogs, css, javascript, python, web-development, webdev, react-js, reactjs, html5, wemakedevs
 
 ---
 
