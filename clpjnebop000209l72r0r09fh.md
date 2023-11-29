@@ -3,7 +3,7 @@ title: "Mastering Navigation with React Router"
 datePublished: Wed Nov 29 2023 10:52:41 GMT+0000 (Coordinated Universal Time)
 cuid: clpjnebop000209l72r0r09fh
 slug: mastering-navigation-with-react-router
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701252983499/8bea1d44-f91b-4381-a004-4e56d5217960.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701271303649/7683c8dc-a5c9-42b4-88fa-e48cb23c3872.png
 tags: programming-blogs, css, javascript, web-development, react-native, nodejs, webdev, reactjs, html5, coding, navigation, programming-languages, nextjs, programming-tips, reacthooks
 
 ---
