@@ -30,7 +30,7 @@ Once installed, let's set up the basic structure of React Router. In your main a
 // App.js
 
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes,Route } from 'react-router-dom';
 
 import Home from './components/Home';
 import About from './components/About';
@@ -39,11 +39,11 @@ import Contact from './components/Contact';
 const App = () => {
   return (
     <Router>
-      <div>
+      <Routes>
         <Route path="/" exact component={Home} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
-      </div>
+      </Routes>
     </Router>
   );
 };
@@ -51,7 +51,7 @@ const App = () => {
 export default App;
 ```
 
-Here, we've set up a `BrowserRouter` as `Router` and defined three routes for the home, about, and contact pages using the `Route` component.
+Here, we've set up a `BrowserRouter` as `Router` and defined three routes for the home, about, and contact pages using the `Route` component which is a child of the `Routes`
 
 ## Navigating with Links
 
