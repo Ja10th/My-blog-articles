@@ -587,6 +587,4 @@ By incorporating `<Outlet/>` into your nested route components, you ensure that 
 
 We've covered the basics of setting up routes, navigating with links, handling route parameters, and implementing advanced navigation patterns. React Router provides a robust solution for creating dynamic and engaging user interfaces in your React applications. Continue exploring and experimenting with these concepts to enhance your skills in React development.
 
-`Give the article a like, comment and follow for more similar articles`
-
-`JA10Th`
+[Connect With Me](https://twitter.com/ja10th)
