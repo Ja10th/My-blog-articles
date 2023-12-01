@@ -4,7 +4,7 @@ datePublished: Wed May 10 2023 16:33:54 GMT+0000 (Coordinated Universal Time)
 cuid: clhhx77c0000309mnf34tb6ha
 slug: prometheus-vs-elk-stack-elasticsearch-logstash-kibana-an-architectural-comparison
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xG8IQMqMITM/upload/5855fd31dc5baaf9ca66a6c543606475.jpeg
-tags: architecture, stack, elk, comparison, prometheus
+tags: architecture, stack, elk, comparison, prometheus, prometheus-vs-elasticsearch, elasticsearch-vs-prometheus
 
 ---
 
