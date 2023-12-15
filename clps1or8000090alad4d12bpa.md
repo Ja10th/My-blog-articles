@@ -5,11 +5,13 @@ datePublished: Tue Dec 05 2023 07:54:51 GMT+0000 (Coordinated Universal Time)
 cuid: clps1or8000090alad4d12bpa
 slug: understanding-forms-in-react
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701762608641/7b63bc93-5bfc-4087-83d1-8ebebbd6324a.png
-tags: programming-blogs, css, javascript, web-design, python, web-development, react-native, computer-science, webdev, reactjs, html5, coding, programming-languages, programming-tips, reacthooks
+tags: forms, programming-blogs, css, javascript, web-design, python, web-development, react-native, webdev, reactjs, html5, coding, programming-languages, programming-tips, reacthooks
 
 ---
 
-Thank you in advance for following this blog to explore more related articles. Now, let’s shift our attention to the main goal of this piece, delving into insightful content that awaits you.
+Thank you in advance for following this blog to explore more related articles. I wrote something about [emergency funds essentials](https://jaurelblog.vercel.app/item/emergency-funds-essentials), check it out 😉
+
+Now, let’s shift our attention to the main goal of this piece, delving into insightful content that awaits you.
 
 Forms are an integral part of web development, allowing users to interact with your application. In React, handling forms involves understanding states, events, and JSX syntax. This beginner-friendly guide will walk you through the basics of creating and managing forms in React, providing clear examples and explanations.
 
