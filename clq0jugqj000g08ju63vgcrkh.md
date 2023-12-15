@@ -6,11 +6,13 @@ datePublished: Mon Dec 11 2023 06:45:20 GMT+0000 (Coordinated Universal Time)
 cuid: clq0jugqj000g08ju63vgcrkh
 slug: what-are-react-hooks
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702216108489/e804c48e-0245-4008-8710-6ac62dbbade3.png
-tags: programming-blogs, css3, css, javascript, react-native, html, react, seo, developer, reactjs, html5, coding, programming-languages, programming-tips, reacthooks
+tags: programming-blogs, css3, css, java, javascript, react-native, html, react, developer, reactjs, html5, coding, programming-languages, programming-tips, reacthooks
 
 ---
 
 React Hooks have changed the way we work with functional components in React. They provide the power of state and lifecycle characteristics to functional components, making them more dynamic and versatile. Before we dive in, Books are a uniquely portable magic so learn more about React in this [<mark>Ebook</mark>](https://amzn.to/3RBOyvD)
+
+I wrote something about [emergency funds essentials](https://jaurelblog.vercel.app/item/emergency-funds-essentials), check it out 😉
 
 React Hooks are a mechanism to provide state and lifecycle features to functional components. Before Hooks, these features were limited to class components. Functional components can now accomplish much more.
 
